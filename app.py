@@ -22,7 +22,7 @@ EMAIL = "adnanmushtaq5@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://linkedin.com",
     "GitHub": "https://www.linkedin.com/in/adnan-karol-aa1666179/",
-    "Medium": "https://adnanmushtaq5.medium.com/",
+    "Medium": "https://adnankarol.medium.com/",
 }
 
 
