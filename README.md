@@ -2,9 +2,11 @@
 
 Welcome to the Digital Resume Creator tutorial using Python and Streamlit! In this tutorial, I'll guide you through the process of building a digital resume application that you can use to showcase your skills and experiences.
 
-Feel free to use this template and adjust it to your needs & linking.<br>
+Feel free to use this template and adjust it to your needs & linking.
 
-💡 **The website design is inspired by [@Sven-Bo](https://github.com/Sven-Bo/digital-resume-template-streamlit)** 💡 <br>
+💡 **View my [Digital Resume Online](https://adnankarol.onrender.com)** 💡
+
+💡 **The website design is inspired by [@Sven-Bo](https://github.com/Sven-Bo/digital-resume-template-streamlit)** 💡
 
 ## Technologies Used
 
@@ -35,5 +37,5 @@ Python installed on your system
     pip install -r requirements.txt
     streamlit run app.py
 
-## Feedback
-Got some thoughts or suggestions? Don't hesitate to reach out to me at adnanmushtaq5@gmail.com.💡
+## Contact
+In case of questions, feel free to contact me over Linkedin at [Adnan](https://www.linkedin.com/in/adnan-karol-aa1666179/).
