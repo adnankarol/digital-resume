@@ -20,8 +20,8 @@ Full-Stack Data Scientist at SURU-Part of LIXIL.
 """
 EMAIL = "adnanmushtaq5@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://www.linkedin.com/in/adnan-karol-aa1666179/",
+    "LinkedIn": "https://www.linkedin.com/in/adnan-karol-aa1666179/",
+    "GitHub": "https://github.com/adnankarol",
     "Medium": "https://adnankarol.medium.com/",
 }
 
