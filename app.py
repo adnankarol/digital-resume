@@ -155,8 +155,7 @@ PROJECTS = {
     "🏆 GOD: System and method for detecting leakages in a fluid-bearing structure": "A project that uses deep learning to detect homes with micro-leakage and has a development testing accuracy of 96%. Currently, this project is filed with the patent office.",
     "🏆 Water Demand Forecasting and Deployment using Docker and Flask": "Developed a comprehensive end-to-end system for forecasting water consumption, encompassing data preprocessing, model construction utilizing CNN-LSTM, and model deployment through Docker and Flask. [GitHub](https://github.com/adnanmushtaq1996/Water_Consumption_Forecasting_Deployment)",
     "🏆 LSTM and CNN Based IMU Sensor Fusion Approach for Human Pose Identification": "Springer, International Symposium on Wearable Robotics, WeRob 2020: Wearable Robotics: [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-69547-7_74)",
-    "🏆 Deploying YOLOv8 Model on Amazon SageMaker Endpoints and Integrating with AWS
-Lambda and API Gateway: [GitHub](https://github.com/adnankarol/YOLOv8Deploy-SageMaker-Lambda-API-Gateway-Model-Deployment)",
+    "🏆 Deploying YOLOv8 Model on Amazon SageMaker Endpoints and Integrating with AWS Lambda and API Gateway": "Deployed YOLOv8 model on Amazon SageMaker Endpoints, integrating seamlessly with AWS Lambda and APIGateway for scalable object detection solutions. [GitHub](https://github.com/adnankarol/YOLOv8Deploy-SageMaker-Lambda-API-Gateway-Model-Deployment)",
     
 }
 
