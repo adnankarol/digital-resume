@@ -1,41 +1,46 @@
-# Digital Resume Creator with Python and Streamlit
+# 🌐 Digital Resume Creator with Python & Streamlit 🌐
 
-Welcome to the Digital Resume Creator tutorial using Python and Streamlit! In this tutorial, I'll guide you through the process of building a digital resume application that you can use to showcase your skills and experiences.
+Welcome to this tutorial on building a **Digital Resume** using Python and Streamlit! This guide will help you create a personal resume website to showcase your skills and experiences. Feel free to use and adjust this template as you like! ✨
 
-Feel free to use this template and adjust it to your needs & linking.
+💼 **[Check Out My Digital Resume](https://adnankarol.onrender.com)**  
+🎨 **Design Inspired by [@Sven-Bo](https://github.com/Sven-Bo/digital-resume-template-streamlit)**
 
-💡 **View my [Digital Resume Online](https://adnankarol.onrender.com)** 💡
+---
 
-💡 **The website design is inspired by [@Sven-Bo](https://github.com/Sven-Bo/digital-resume-template-streamlit)** 💡
+## 🛠️ Technologies Used
 
-## Technologies Used
+- **Python** 🐍: A versatile language for web development, data analysis, and more.
+- **Streamlit** 🚀: A Python library for creating interactive web applications.
 
-Python: Python is a versatile programming language that is widely used for web development, data analysis, machine learning, and more.
-Streamlit: Streamlit is an open-source Python library that makes it easy to create web applications for machine learning, data visualization, and other purposes.
-Tutorial Outline
+---
 
-## Setup
+## 📋 Tutorial Outline
 
-We'll start by setting up our development environment and installing the necessary dependencies.
-Building the Basic Structure: We'll create a basic structure for our digital resume application using Streamlit.
-Adding Content: Next, we'll add sections for personal information, education, work experience, skills, and any other relevant details.
-Styling: We'll explore ways to enhance the visual appearance of our digital resume using CSS styling.
-Deployment: Finally, we'll discuss options for deploying our digital resume application so that it can be accessed online.
-Getting Started
+1. **Setup**: Install dependencies and set up your environment.
+2. **Structure**: Build a basic structure for the resume app.
+3. **Content**: Add sections for personal info, education, experience, skills, etc.
+4. **Styling**: Add CSS to enhance the visual look of the resume.
+5. **Deployment**: Make your resume accessible online.
 
-## Requirements
+---
 
-Python installed on your system
+## ⚙️ Getting Started
 
-1. Basic understanding of Python programming
+### Requirements
 
-2. Familiarity with HTML and CSS (optional)
-        
+- 🐍 Python installed
+- 📝 Basic Python knowledge
+- 🌐 Familiarity with HTML/CSS (optional)
 
-## Run the app
-    
-    pip install -r requirements.txt
-    streamlit run app.py
+### Run the App
 
-## Contact
-In case of questions, feel free to contact me over Linkedin at [Adnan](https://www.linkedin.com/in/adnan-karol-aa1666179/).
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 📞 Contact
+
+Questions? Reach me on [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/).
